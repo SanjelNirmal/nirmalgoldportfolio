@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://api.iconify.design/material-symbols:camera-video-outline.svg?color=%23c5a059" width="100" alt="Cinématique Logo" />
+  <img src="favicon.png" width="100" alt="Cinématique Logo" />
 </p>
 
 <h1 align="center" style="font-family: 'Playfair Display', serif;">
