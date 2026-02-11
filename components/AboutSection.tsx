@@ -27,7 +27,7 @@ const AboutSection: React.FC = () => {
           >
 
             <img 
-              src="src/profile.jpg" alt="Atmospheric studio" 
+              src="/profile.jpg" alt="Atmospheric studio" 
               className="w-full h-full object-cover scale-110 group-hover:scale-100 transition-transform duration-[2000ms]"
             />
           </motion.div>
