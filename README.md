@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="favicon.png" width="100" alt="Cinématique Logo" />
+  <img src="public/favicon.png" width="100" alt="Cinématique Logo" />
 </p>
 
 <h1 align="center" style="font-family: 'Playfair Display', serif;">
